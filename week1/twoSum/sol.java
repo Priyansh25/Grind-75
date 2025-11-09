@@ -1,3 +1,6 @@
+package week1.twoSum;
+
+import java.util.Arrays;
 import java.util.HashMap;
 
 class Solution {
@@ -10,5 +13,17 @@ class Solution {
             map.put(nums[i],i);
         }
         return new int[]{0,0};
+    }
+
+// Main function to test twoSum
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+
+        int[] nums = {2, 7, 11, 15};
+        int target = 9;
+
+        int[] result = sol.twoSum(nums, target);
+
+        System.out.println("Indices: " + Arrays.toString(result));
     }
 }
