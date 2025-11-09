@@ -1,4 +1,4 @@
-package week1.twoSum;
+package easy.twoSum;
 
 import java.util.Arrays;
 import java.util.HashMap;
