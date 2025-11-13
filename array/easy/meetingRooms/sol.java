@@ -1,4 +1,4 @@
-package easy.meetingRooms;
+package array.easy.meetingRooms;
 
 import java.util.ArrayList;
 import java.util.List;

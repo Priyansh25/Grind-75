@@ -1,4 +1,4 @@
-package easy.majorityElement;
+package array.easy.majorityElement;
 class Solution {
     public int majorityElement(int[] nums) {
 

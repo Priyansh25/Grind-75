@@ -1,4 +1,4 @@
-package easy.moveZeroes;
+package array.easy.moveZeroes;
 
 class Solution {
     public void swap(int[] nums, int l, int r) {

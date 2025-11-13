@@ -1,4 +1,4 @@
-package easy.containsDuplicate;
+package array.easy.containsDuplicate;
 
 import java.util.HashMap;
 

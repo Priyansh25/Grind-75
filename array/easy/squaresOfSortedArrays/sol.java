@@ -1,4 +1,4 @@
-package easy.squaresOfSortedArrays;
+package array.easy.squaresOfSortedArrays;
 
 import java.util.Arrays;
 

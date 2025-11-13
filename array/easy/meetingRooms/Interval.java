@@ -1,4 +1,4 @@
-package easy.meetingRooms;
+package array.easy.meetingRooms;
 
 // Definition of Interval:
 public class Interval {
